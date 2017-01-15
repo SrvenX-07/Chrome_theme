@@ -1,0 +1,41 @@
+{
+	"version":"0.0.5",
+	"manifest_version":2,
+	"name":"Suzumiya Haruhi Ver.Kouyonn",
+	"theme":
+		{
+			"images":
+			{
+				"theme_frame":"theme_frame.png",
+				"theme_tab_background":"theme_tab_background.png",
+				"theme_toolbar":"theme_toolbar.png",
+				"theme_ntp_background":"theme_ntp_background.png"
+			},
+			"colors":
+			{
+				"ntp_background":[204,204,204],
+				"ntp_text":[255,255,255],
+				"tab_text":[255,255,255],
+				"tab_background_text":[15,15,0],
+				"toolbar":[128,86,31],
+				"bookmark_text":[255,255,255]
+			},
+			"tints":
+			{
+				"buttons":[-1,-1,0.2]
+			},
+			"properties":
+			{
+				"ntp_background_alignment":"top center",
+				"ntp_background_repeat":"no-repeat"
+			},
+			"icon":
+			{
+				"16":"icon.png",
+				"32":"icon.png",
+				"48":"icon.png",
+				"64":"icon.png",
+				"128":"icon.png"
+			}
+		}
+}
